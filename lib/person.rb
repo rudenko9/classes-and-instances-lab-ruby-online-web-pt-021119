@@ -1,0 +1,1 @@
+adele_goldberg = Person.new
